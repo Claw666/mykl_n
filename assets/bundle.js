@@ -91055,7 +91055,7 @@ module.exports = function (backgrounds) {
       var bgFade = new _tweezer2.default({
         start: 0,
         end: 100,
-        duration: 3000
+        duration: 1000
       }).on('tick', function (value) {
         bgObject.sprite.alpha = value / 100;
       });
