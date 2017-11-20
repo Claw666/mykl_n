@@ -1346,7 +1346,7 @@ input, .button { background: none; border: 1px solid #b3b3b3; outline: none; col
 
 .button-hover { -webkit-transition: border 0.3s ease; transition: border 0.3s ease; }
 
-input[type="email"]:active, input[type="email"]:focus { background: black; color: #ffffff; }
+input[type="email"]:active, input[type="email"]:focus { background: white; color: #c1c1c1; }
 
 .button-hover:hover, .button-hover:active, .button-hover:focus { border: 1px solid #d9d9d9; }
 
